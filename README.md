@@ -11,3 +11,13 @@ Thanks to [u/locotay](https://www.reddit.com/user/locotay/) for finding the name
 
 Inkscape - Used for exporting the PNGs \
 Jost\* - Font used
+<details>
+
+<summary>Sample Images</summary>
+
+<img src="/pngs/error-wallpaper-mocha-mauve.png">
+<img src="/pngs/error-wallpaper-macchiato-mauve.png">
+<img src="/pngs/error-wallpaper-frappé-mauve.png">
+<img src="/pngs/error-wallpaper-latte-mauve.png">
+
+</details>
